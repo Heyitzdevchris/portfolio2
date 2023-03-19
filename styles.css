@@ -70,6 +70,19 @@ a:active {
   line-height: 25px;
 }
 
+.introduction-heading,
+.about-me-heading,
+.contact-me-heading {
+  text-align: center;
+  margin-right: 48px;
+}
+
+.about-me-heading,
+.contact-me-heading {
+  margin: 0;
+}
+
+
 .about-me-section {
   margin: 0px 700px 85px 700px;
   text-align: left;
