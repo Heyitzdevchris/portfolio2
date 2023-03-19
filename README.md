@@ -1,2 +1,2 @@
-# portfolio2
+# Portfolio 2
 HTML/CSS only!
